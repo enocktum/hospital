@@ -1,0 +1,11 @@
+<?php 
+$con=mysqli_connect("localhost","root","nockstar92","hospital");
+if($con)
+{
+	
+}
+else
+{
+	echo"there is a problem with server connectivity";
+}
+?>
